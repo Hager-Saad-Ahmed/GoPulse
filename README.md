@@ -1,6 +1,6 @@
 ---
 
-# Survey Go Application
+# GoPulse Application
 
 This project is a **Survey application** written in Go, using **MongoDB** as the database. It is containerized using Docker and can be run locally either with individual Docker containers or using Docker Compose.
 
